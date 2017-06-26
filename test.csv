@@ -1,0 +1,12 @@
+,adm,country,link
+0,Zipped shapefile from the International boundary layer.,Cameroon,http://data.humdata.org/dataset/b13f08ef-92ee-4446-9b0a-e219f5c25415/resource/4e6ad65c-c51e-43fd-8722-e4e37a023bda/download/CMR_adm0_1m.zip
+0,Zipped shapefile from the Admin1 boundary layer.,Cameroon,http://data.humdata.org/dataset/b13f08ef-92ee-4446-9b0a-e219f5c25415/resource/20046324-ca41-4a5c-a010-d45ac356015a/download/CMR_ADMIN-1_SALB.ZIP
+0,Zipped shapefile from the Admin2 boundary layer.,Cameroon,http://data.humdata.org/dataset/b13f08ef-92ee-4446-9b0a-e219f5c25415/resource/bf8b865f-8f17-405e-9e48-8ca25ddf9bd5/download/CMR-ADMIN-2_SALB.ZIP
+0,International boundary,C\\u00f4te d'Ivoire,http://data.humdata.org/dataset/f1f0cfa1-afec-40a2-8390-a084e66a3377/resource/2e99a98d-9d02-4ca8-bc87-6578330a39b6/download/civ_admbnda_adm0_cntig_20160527.zip
+0,Admin 1 Boundaries ,C\\u00f4te d'Ivoire,http://data.humdata.org/dataset/f1f0cfa1-afec-40a2-8390-a084e66a3377/resource/cc7b5423-0de1-41a4-b39b-4d4f75f890ab/download/civ_admbnda_adm1_cntig_20160527.zip
+0,Admin 2 Boundaries ,C\\u00f4te d'Ivoire,http://data.humdata.org/dataset/f1f0cfa1-afec-40a2-8390-a084e66a3377/resource/66cfc1f8-0c96-4212-bb5c-b063ddf1be6a/download/civ_admbnda_adm2_cntig_20160527.zip
+0,Admin 3 Boundaries ,C\\u00f4te d'Ivoire,http://data.humdata.org/dataset/f1f0cfa1-afec-40a2-8390-a084e66a3377/resource/7b723d78-13bd-419f-a5e5-577c9646b89f/download/civ_admbnda_adm3_cntig_20160527.zip
+0,Admiin level 0 = international boundary,Haiti,http://data.humdata.org/dataset/777e8b06-337f-4295-80bc-ca1515244215/resource/365e497c-9ba6-4107-8012-a43e27195601/download/hti_admnbnda_adm0_CNIGS2013.zip
+0,Admin level 1 = Departement,Haiti,http://data.humdata.org/dataset/777e8b06-337f-4295-80bc-ca1515244215/resource/61113b50-02c1-4288-8d45-f3aad32a5fae/download/hti_admnbnda_adm1_CNIGS2013.zip
+0,Admin level 2 = Commune ,Haiti,http://data.humdata.org/dataset/777e8b06-337f-4295-80bc-ca1515244215/resource/d80f2b3e-71b5-4705-8ff4-21f28e839fac/download/hti_admnbnda_adm2_CNIGS2013.zip
+0,Admin level 3 = Sections Communales,Haiti,http://data.humdata.org/dataset/777e8b06-337f-4295-80bc-ca1515244215/resource/2b277d37-b4c7-4dea-923c-6e65d3cfa1e2/download/hti_admnbnda_adm3_CNIGS2013.zip

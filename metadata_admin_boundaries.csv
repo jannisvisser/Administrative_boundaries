@@ -1,0 +1,167 @@
+country;country_code;admin_level;local_name;pcode_col;name_col;pcode_parent_col;name_parent_col;population_col;link;filter
+Sri Lanka;LKA;2;Districts;district_c;district_n;province_c;;;https://data.humdata.org/dataset/5ed05f6e-556f-4545-918a-a5b679386ee9/resource/bcc9d500-3895-4262-8e6f-9eb3b652d931/download/lka_pop_censusproj2022adm2_wfpocha.zip;0
+Sri Lanka;LKA;3;DSDs;dsd_c;dsd_n;district_1;;;https://data.humdata.org/dataset/fa50efee-3fd9-412c-99e1-3a8b8759299e/resource/d102324b-be2b-4c17-a153-732a0db59f5d/download/lka_pop_censusproj2022adm3_wfpocha.zip;0
+Sri Lanka;LKA;4;GNDs;gn_uid;gnd_n;dsd_c;;tot_pop;https://data.humdata.org/dataset/e2f40579-d9fc-4515-ba66-f2ba43e693a6/resource/6ab35368-024d-4cca-b098-e71ed70fed14/download/lka_pop_censusproj2022adm4_wfpocha.zip;0
+Afghanistan;AFG;1;;hrpcode;hrname;hrparent;;;http://data.humdata.org/dataset/84fbac2d-5e21-4fa6-ac28-f35db4f40313/resource/df238fc3-6bff-448c-9111-ffbbf2d5446a/download/afg_admbnd_adm1_pol_shp.zip;0
+Afghanistan;AFG;2;;hrpcode;hrname;hrparent;;;http://data.humdata.org/dataset/84fbac2d-5e21-4fa6-ac28-f35db4f40313/resource/0cd36601-b253-41ef-8f80-653caa978743/download/afg_admbnd_adm2_pol_shp.zip;0
+Bahamas;BHS;1;;;;;;;http://data.humdata.org/dataset/692fc891-1e44-4413-9e88-999349c86ca7/resource/d521054d-7272-4368-abf2-8a5d9f2b2ae7/download/BHS_adm1_GDAMS_2009.zip;0
+Bahrain;BHR;1;;;;;;;http://data.humdata.org/dataset/23a85209-66d3-4d10-a69f-7baf6d2cc8c1/resource/ed1d62a1-92f1-4105-b647-85e90362c59b/download/Boundaries_Bahrain_1_GAUL.zip;0
+Bahrain;BHR;2;;;;;;;http://data.humdata.org/dataset/23a85209-66d3-4d10-a69f-7baf6d2cc8c1/resource/4fdec9b0-ad6d-4981-8a8b-f4af6f4a5b23/download/Boundaries_Bahrain_2_GAUL.zip;0
+Bangladesh;BGD;3;;upzcode;upazila;;district;;http://data.humdata.org/dataset/01f31180-84ef-44ca-a561-4ac62c6a61c4/resource/2d332b10-fdfd-4721-ac19-e3dec9166a7b/download/bgd_bnd_admin3_bbs.zip;0
+Bangladesh;BGD;2;;disgeocode;district;;division;;http://data.humdata.org/dataset/fa7e044e-76ac-4363-8231-64d15ca93d46/resource/f48ee835-24bb-4016-87a3-ab6c2f010287/download/bgd_bnd_admin2_bbs.zip;0
+Bangladesh;BGD;1;;divgeocode;division;;;;http://data.humdata.org/dataset/6f8763e3-7f07-49ff-9ef6-a752da531475/resource/6b5577a3-47df-4f85-b2f0-5e2c86add0c9/download/bgd_bnd_admin1_bbs.zip;0
+Benin;BEN;1;;;;;;;http://data.humdata.org/dataset/494229d9-eee0-4872-8864-2baf98691554/resource/e8817dc4-3734-4e4f-be54-d446fc71f68a/download/ben_admbnd1_1m_SALB.zip;0
+Benin;BEN;2;;;;;;;http://data.humdata.org/dataset/494229d9-eee0-4872-8864-2baf98691554/resource/8478a018-96ab-453c-915f-310f588500ff/download/ben_admbnd2_1m_SALB.zip;0
+Bhutan;BTN;2;;adm2_code;adm2_name;adm1_code;adm1_name;;http://data.humdata.org/dataset/fc1ab95e-a63e-4f6d-a1b7-259a97166314/resource/99ea2610-d165-4007-90c7-dcc6ce0ea5ad/download/btn_polbnda_adm2_bgp_edit.zip;0
+Bhutan;BTN;1;;adm1_code;adm1_name;;;;http://data.humdata.org/dataset/713a6158-fbe9-414b-b58f-a2d5932f2b37/resource/7c6d64b0-d3e6-4b1a-87b6-d30361aaa3f0/download/btn_polbnda_adm1_bgp_edit.zip;0
+Bolivia (Plurinational State of);BOL;2;;cod_prov;nom_prov;;;;http://data.humdata.org/dataset/46e586ce-c00c-4e50-b212-284a02624fee/resource/75a24ab6-cd5e-431f-916b-a6b77626345b/download/administrative_boundaries_-_level_3_limite_provincial.zip;1
+Bolivia (Plurinational State of);BOL;3;;codseccion;nom_mun;cod_prov;nom_prov;total_2010;http://data.humdata.org/dataset/100576f3-af09-4f72-833f-97dc6c92fbf8/resource/5bf9800d-4458-4d3a-b93e-b8b8632a5613/download/administrative_boundaries_-_level_4_limite_municipal.zip;1
+Bolivia (Plurinational State of);BOL;1;;cod_dep;nom_dep;;;;http://data.humdata.org/dataset/7c1b668e-aa53-4d20-81df-9945a892a05a/resource/06e6c2a7-b31c-4e6c-8e23-28e7636adf12/download/administrative_boundaries_-_level_1_limite_departamental.zip;1
+Burkina Faso;BFA;1;;admin1pcod;admin1name;admin0pcod;admin0name;;http://data.humdata.org/dataset/2940ed80-4b69-4b98-abaf-af79088852c5/resource/5d409afc-7bc6-4c72-8a49-0fc5cd4718a5/download/bfa_admbnda_adm1_1m_salb_itos.zip;0
+Burkina Faso;BFA;2;;admin2pcod;admin2name;admin1pcod;admin1name;;http://data.humdata.org/dataset/2940ed80-4b69-4b98-abaf-af79088852c5/resource/872a2e62-9c2d-4bd7-9570-93b1fa9d9869/download/bfa_admbnda_adm2_1m_salb_itos.zip;0
+Burundi;BDI;1;;p_code;name1_;;;;http://data.humdata.org/dataset/4adaa3c9-cafd-4cf4-a768-9d9b520a8d86/resource/35921f1a-a635-4a47-811a-97309a4c2505/download/bdiadmin12006igebu.zip;0
+Burundi;BDI;2;;p_code;province;;;;http://data.humdata.org/dataset/873afa32-ce8b-4864-87ed-96d8e7c664d9/resource/09745f81-6d44-4548-9ce1-a4bc1488d6fa/download/bdiadmin22006igebu.zip;0
+Burundi;BDI;3;;p_code;commune;;province;;http://data.humdata.org/dataset/f60e3d80-9d66-48dd-8de4-0f2c7a56a293/resource/f96001cf-5769-4d10-bb57-77dd84def7d1/download/bdiadmin32006igebu0.zip;0
+Cambodia;KHM;1;;hrpcode;hrname;hrparent;;;http://data.humdata.org/dataset/a477b3fa-7ad0-4da6-883b-85ba87c753aa/resource/a320ae8e-0e45-4aa8-8b77-0c1875394fa9/download/khm_admbnda_adm1_gov.zip;0
+Cambodia;KHM;3;;hrpcode;hrname;hrparent;;;http://data.humdata.org/dataset/07495997-5701-466e-826c-b5de6851f1e3/resource/1a1f9951-5782-429e-9ede-21d52b971b70/download/khm_admbnda_adm3_gov.zip;0
+Cambodia;KHM;2;;hrpcode;hrname;hrparent;;;http://data.humdata.org/dataset/12c067f1-f15d-4c69-b57d-a0858e68e787/resource/f80ea9ef-69fd-4fbe-83f3-6cfc5011713f/download/khm_admbnda_adm2_gov.zip;0
+Cameroon;CMR;1;;;;;;;http://data.humdata.org/dataset/b13f08ef-92ee-4446-9b0a-e219f5c25415/resource/20046324-ca41-4a5c-a010-d45ac356015a/download/CMR_ADMIN-1_SALB.ZIP;0
+Cameroon;CMR;2;;;;;;;http://data.humdata.org/dataset/b13f08ef-92ee-4446-9b0a-e219f5c25415/resource/bf8b865f-8f17-405e-9e48-8ca25ddf9bd5/download/CMR-ADMIN-2_SALB.ZIP;0
+Cape Verde;CPV;1;;;;;;;http://data.humdata.org/dataset/ce7df560-f77b-4f55-9175-4719ea21f50b/resource/2494e815-d67f-4eb1-92b9-6a108960baec/download/CPVConcelhossalb.zip;0
+Central African Republic;CAF;1;;admin1pcod;admin1name;admin0pcod;admin0name;;http://data.humdata.org/dataset/78d80f16-b9ff-49cd-8195-d96efcf3b669/resource/b3e8f5e9-3546-475e-924f-4be91f88b12c/download/caf_admbnda_adm1_200k_sigcaf_reach_itos_Ocha.zip;0
+Central African Republic;CAF;2;;admin2pcod;admin2name;admin1pcod;admin1name;;http://data.humdata.org/dataset/78d80f16-b9ff-49cd-8195-d96efcf3b669/resource/ddc54c62-2c0c-4b5b-9864-0a6ff747e4fc/download/caf_admbnda_adm2_200k_sigcaf_reach_itos_Ocha.zip;0
+Central African Republic;CAF;3;;admin3pcod;admin3name;admin2pcod;admin2name;;http://data.humdata.org/dataset/78d80f16-b9ff-49cd-8195-d96efcf3b669/resource/f1faa825-b2b9-4677-b819-99fa4cb971ae/download/caf_admbnda_adm3_200k_sigcaf_reach_itos_ocha.zip;0
+Chad;TCD;1;;pcode;region;;;;http://data.humdata.org/dataset/7a3532f7-c6f0-4106-86b9-650b5cfc4774/resource/8d3ab078-b47b-489c-9c82-723795dd88d3/download/tcd_admbnd_adm1_2008_ocha.zip;0
+Chad;TCD;2;;pcode;departemen;;region;;http://data.humdata.org/dataset/7a3532f7-c6f0-4106-86b9-650b5cfc4774/resource/cf9d8f25-cc46-4f52-9985-6ea08711760e/download/tcd_admbnd_adm2_2008_ocha.zip;0
+Congo;COG;1;;;;;;;http://data.humdata.org/dataset/762e2263-c6f1-4ef6-a3bc-48338a6484a8/resource/525b21cd-7da8-4abc-9186-21910eb604f8/download/COG_admbndp1_1m_gadm.zip;0
+Congo;COG;2;;;;;;;http://data.humdata.org/dataset/762e2263-c6f1-4ef6-a3bc-48338a6484a8/resource/90bb7fd5-9d9f-48ac-bb68-7be8e176bbed/download/COG_admbndp2_1m_gadm.zip;0
+Cote d'Ivoire;CIV;1;;admin1pcod;admin1name;admin0pcod;admin0name;;http://data.humdata.org/dataset/f1f0cfa1-afec-40a2-8390-a084e66a3377/resource/cc7b5423-0de1-41a4-b39b-4d4f75f890ab/download/civ_admbnda_adm1_cntig_20160527.zip;0
+Cote d'Ivoire;CIV;2;;admin2pcod;admin2name;admin1pcod;admin1name;;http://data.humdata.org/dataset/f1f0cfa1-afec-40a2-8390-a084e66a3377/resource/66cfc1f8-0c96-4212-bb5c-b063ddf1be6a/download/civ_admbnda_adm2_cntig_20160527.zip;0
+Cote d'Ivoire;CIV;3;;admin3pcod;admin3name;admin2pcod;admin2name;;http://data.humdata.org/dataset/f1f0cfa1-afec-40a2-8390-a084e66a3377/resource/7b723d78-13bd-419f-a5e5-577c9646b89f/download/civ_admbnda_adm3_cntig_20160527.zip;0
+Cuba;CUB;1;;;;;;;http://data.humdata.org/dataset/09a2fd3a-52d9-4e95-98d9-35161137a592/resource/e931e099-1308-4055-a862-f8051c64f4b3/download/CUB_adm1.zip;0
+Cuba;CUB;2;;;;;;;http://data.humdata.org/dataset/2e424767-55b5-4e69-a021-360cb2a57dc6/resource/d3280867-bf07-4ebf-8243-874e85d257dd/download/CUB_adm2.zip;0
+Democratic People's Republic of Korea;PRK;1;;adm1_code;adm1_name;;;;http://data.humdata.org/dataset/a5a07b2f-1f2b-45a1-9273-005c246d2a7f/resource/808ad1f8-c9f2-4e77-964c-0b9f6c5d6abf/download/DPRK_adm1_polygon_wfp_edit.zip;0
+Democratic People's Republic of Korea;PRK;2;;adm2011;adm2_name_;adm1_code;adm1_name;;http://data.humdata.org/dataset/5b168494-ec64-4553-a628-7439244bb346/resource/25fcba7a-aaa3-4df7-b005-64a73e4f6b35/download/DPRK_adm2_polygon_wfp_edit.zip;0
+Djibouti;DJI;1;;;local_name;;;;http://data.humdata.org/dataset/48456bbc-e7f0-428f-a41d-753ef0f66e43/resource/2bc35d7a-5c7a-43f4-9718-8b0abfc58fad/download/djiadmin11996fews.zip;0
+Djibouti;DJI;3;;;admin3;;;;http://data.humdata.org/dataset/7545b743-379d-44a4-88f3-cdac02019422/resource/bac7f725-9683-4228-903e-b4ad9608bf2d/download/djiadmin31996fews.zip;0
+Djibouti;DJI;2;;;admin2;;;;http://data.humdata.org/dataset/43b4fc00-3192-48b3-b0f3-765d0325670e/resource/0877365f-7da1-475c-9b99-4d397bfb5e63/download/djiadmin21996fews.zip;0
+Dominican Republic;DOM;3;;;;;;;http://data.humdata.org/dataset/c436cdf1-0f68-4eba-bc01-a5eab9a4fbe9/resource/36078091-cb27-484a-953d-0137c5ec42a3/download/Admin_Boundaries_Level_3.zip;0
+Ecuador;ECU;1;;;;;;;http://data.humdata.org/dataset/94ca0461-d2a8-4f1f-a99e-47b665462726/resource/3cdaaf9a-342c-4546-a7a3-9246a942db16/download/administrative_boundaries_1-ec.zip;0
+Ecuador;ECU;3;;;;;;;http://data.humdata.org/dataset/4adaa4ad-e23d-418e-a659-b1d751f2e52c/resource/b6bb3071-87ae-4b8b-a892-80b2d350f10d/download/administrative_boundaries_3-ec.zip;0
+Ecuador;ECU;2;;;;;;;http://data.humdata.org/dataset/ab3c7592-3b0c-41cd-999a-2919a6b243f2/resource/b383afb5-7391-4f91-9986-e42d9897ece1/download/administrative_boundaries_2-ec.zip;0
+Equatorial Guinea;GNQ;1;;;;;;;http://data.humdata.org/dataset/0c1a3093-c97d-48a2-a992-e652ebcbf05c/resource/11f4484b-1662-4c8c-83d8-71383a619558/download/gnqadm1gaul.zip;0
+Eritrea;ERI;2;;;;;;;http://data.humdata.org/dataset/99960eda-9c9d-47d6-b1dc-4de73439d283/resource/a643724d-5e99-4a44-8423-2ec4d5a91501/download/eriadmin2.zip;0
+Eritrea;ERI;1;;;;;;;http://data.humdata.org/dataset/2025e742-8b5a-4f72-aac5-a28e96ce3cb8/resource/45277d47-3a55-4939-8b5a-12713b25a743/download/eriadmin1.zip;0
+Gabon;GAB;1;;adm1_code;adm1_name;cntry_code;cntry_name;;http://data.humdata.org/dataset/d8d992f3-5374-448f-a3d5-bed7c1925a11/resource/2c7a6d25-4473-458f-87b9-1df0367564ab/download/gabadmbndp11msalb.zip;0
+Gabon;GAB;2;;adm2_code;adm2_name;adm1_code;adm1_name;;http://data.humdata.org/dataset/d8d992f3-5374-448f-a3d5-bed7c1925a11/resource/46463ad7-36e0-401d-9608-ef4d360c32fe/download/gabadmbndp21msalb.shp.zip;0
+Gambia;GMB;1;;lga_code;lga_name;cntry_code;cntry_name;;http://data.humdata.org/dataset/9f2ce756-2e50-4042-a952-32160977d223/resource/a77b714e-4b48-4e05-8e0c-e39822454764/download/GMB_admbnda_adm1_lga_1m_ocha.zip;0
+Gambia;GMB;2;;district_c;district_n;lga_code;lga_name;;http://data.humdata.org/dataset/9f2ce756-2e50-4042-a952-32160977d223/resource/975ac9ed-f966-46d0-a598-f9db36e858e9/download/gmb_admbnda_adm2_district_1m_ocha.zip;0
+Ghana;GHA;1;;;;;;;http://data.humdata.org/dataset/dc4c17cf-59d9-478c-b2b7-acd889241194/resource/f5b5a810-02e2-4272-8e9c-5bd0a40f96f1/download/GHA_admbndp1_1m_GAUL.zip;0
+Ghana;GHA;2;;;;;;;http://data.humdata.org/dataset/dc4c17cf-59d9-478c-b2b7-acd889241194/resource/978379d0-29a5-4beb-9494-11b63e3b16ac/download/GHA_admbndp2_1m_GAUL.zip;0
+Guinea;GIN;3;;;;;;;http://data.humdata.org/dataset/33b573c5-42c5-43ef-b908-c84af369ca88/resource/862da72f-6630-4a34-af3b-e7cfe2a20df1/download/guinea_admin3.zip;0
+Guinea-Bissau;GNB;1;;;;;;;http://data.humdata.org/dataset/3db6297f-55d7-4e79-8969-281b1838ef79/resource/e5e1b90c-dafe-46c5-92c1-4c1a8001200a/download/GNB_adm1_salb.zip;0
+Guinea-Bissau;GNB;2;;;;;;;http://data.humdata.org/dataset/3db6297f-55d7-4e79-8969-281b1838ef79/resource/3a029404-5524-478a-bf3b-78d152871f82/download/GNB_adm2_salb.zip;0
+Haiti;HTI;1;;admin1pcod;admin1name;admin0cod;admin0name;;http://data.humdata.org/dataset/777e8b06-337f-4295-80bc-ca1515244215/resource/61113b50-02c1-4288-8d45-f3aad32a5fae/download/hti_admnbnda_adm1_CNIGS2013.zip;0
+Haiti;HTI;2;;admin2pcod;admin2name;admin1pcod;admin1name;;http://data.humdata.org/dataset/777e8b06-337f-4295-80bc-ca1515244215/resource/d80f2b3e-71b5-4705-8ff4-21f28e839fac/download/hti_admnbnda_adm2_CNIGS2013.zip;0
+Haiti;HTI;3;;admin3pcod;admin3name;admin2pcod;admin2name;;http://data.humdata.org/dataset/777e8b06-337f-4295-80bc-ca1515244215/resource/2b277d37-b4c7-4dea-923c-6e65d3cfa1e2/download/hti_admnbnda_adm3_CNIGS2013.zip;0
+Honduras;HND;1;;admin1pcod;admin1name;admin0pcod;admin0name;;http://data.humdata.org/dataset/bd62fb53-64d3-478f-9ca8-38e4a2de19c0/resource/61cb7564-f409-4803-99c2-1327216c1482/download/hnd_admbnda_adm1_sinit_20161005.zip;0
+Honduras;HND;2;;admin2pcod;admin2name;admin1pcod;admin1name;;http://data.humdata.org/dataset/bd62fb53-64d3-478f-9ca8-38e4a2de19c0/resource/3f584e05-99b7-44cd-9fbe-8ffd3774d7c1/download/hnd_admbnda_adm2_sinit_20161005.zip;0
+Honduras;HND;3;;admin3pcod;admin3name;admin2pcod;admin2name;;http://data.humdata.org/dataset/bd62fb53-64d3-478f-9ca8-38e4a2de19c0/resource/618df9ce-feb1-46de-a9ac-a6ff04cb52ce/download/hnd_admbnda_adm3_sinit_20161005.zip;0
+Iraq;IRQ;1;;;;;;;http://data.humdata.org/dataset/488bb3cd-3ce9-49d3-862a-3ce7975c63e1/resource/4e2a34ef-8b54-4e69-863a-810fa5d298d4/download/iraq_admbnda_adm1.zip;0
+Iraq;IRQ;2;;;;;;;http://data.humdata.org/dataset/488bb3cd-3ce9-49d3-862a-3ce7975c63e1/resource/7003112f-22de-4426-a1d1-9ddc45e211a8/download/iraq_admbnda_adm2.zip;0
+Jamaica;JAM;1;;;;;;;http://data.humdata.org/dataset/21ef604e-39ba-4a2a-9675-08acb24298d1/resource/c093b0ad-3854-4614-b32d-19b14dde72e5/download/Administrative_Boundaries_Level_1.zip;0
+Kenya;KEN;1;;;;;;;http://data.humdata.org/dataset/2c0b7571-4bef-4347-9b81-b2174c13f9ef/resource/5e6bb3bd-6ff8-4127-82b7-5a846bd4b802/download/Kenya_admin1_county.zip;0
+Kenya;KEN;2;;;;;;;http://data.humdata.org/dataset/2c0b7571-4bef-4347-9b81-b2174c13f9ef/resource/14c0dc85-7933-4f3f-b5d4-12a1aea41e00/download/Kenya_admin2_subcounty.zip;0
+Kenya;KEN;1;;;;;;;http://data.humdata.org/dataset/8158e5a1-065b-47b7-b5ad-aff3a7157535/resource/9dbe8e4f-3085-467b-8111-402ba9ceaadc/download/Ken_Admin1.zip;0
+Kenya;KEN;3;;;;;;;http://data.humdata.org/dataset/1c6caac8-874e-47fd-87c4-4d5d91c47e8f/resource/321ce757-f063-475a-9442-c181c444e429/download/kendivisions.zip;0
+Kenya;KEN;2;;;;;;;http://data.humdata.org/dataset/23b3ea32-5cdc-47a0-94a5-763a611a2449/resource/65b395f2-4ce6-41d9-a169-d17e021a7843/download/kendistricts.zip;0
+Kuwait;KWT;1;;;;;;;http://data.humdata.org/dataset/a28f399f-482c-4e62-8dbf-d2c12381674a/resource/cdc040d0-844d-4fbd-a13c-819adda7f624/download/KWT_adm1.zip;0
+Lao People's Democratic Republic;LAO;1;;pcode;pname;;;;http://data.humdata.org/dataset/9eb6aff1-9e3f-43d3-99a6-f415fe4b4dff/resource/d17e2136-9099-43d0-815e-8a0eece8a7fe/download/Lao_bnd_admin1_ngd2015.zip;0
+Lao People's Democratic Republic;LAO;2;;dcode;dname;pcode;pname;;http://data.humdata.org/dataset/9eb6aff1-9e3f-43d3-99a6-f415fe4b4dff/resource/ed026c9b-d8a1-4337-9633-66ac944b82a5/download/lao_bnd_admin2_ngd2015.zip;0
+Libya;LBY;1;;;;;;;http://data.humdata.org/dataset/fd9fb749-5b68-4942-b5f9-115f20b5c00e/resource/8b9ba98c-8d50-4c1c-bf37-8edde91bf33c/download/Lby_Adm1_Geodivision.zip;0
+Libya;LBY;2;;;;;;;http://data.humdata.org/dataset/fd9fb749-5b68-4942-b5f9-115f20b5c00e/resource/c3a9343c-0181-4beb-9ce3-461823b0f5d7/download/Lby_Adm2_Mantika.zip;0
+Libya;LBY;3;;;;;;;http://data.humdata.org/dataset/fd9fb749-5b68-4942-b5f9-115f20b5c00e/resource/b0342205-3a2a-4002-b5c7-e776aaac8831/download/Lby_Adm3_Baladiya.zip;0
+Madagascar;MDG;1;;p_code;region;;;;http://data.humdata.org/dataset/26fa506b-0727-4d9d-a590-d2abee21ee22/resource/d82b7118-2af4-41ab-a372-b343f866c786/download/mdg_polbnda_adm1_region_NDMO_OCHA.zip;0
+Madagascar;MDG;2;;p_code;district;reg_pcode;region;;http://data.humdata.org/dataset/26fa506b-0727-4d9d-a590-d2abee21ee22/resource/dd9b2c7f-3f46-416b-874e-b558ae48af15/download/mdg_polbnda_adm2_district_NDMO_OCHA.shp.zip;0
+Madagascar;MDG;3;;p_code;commune;dist_pcode;district;;http://data.humdata.org/dataset/26fa506b-0727-4d9d-a590-d2abee21ee22/resource/8f25815e-580e-4263-939e-22c8b9b232b1/download/mdg_polbnda_adm3_commune_NDMO_OCHA.shp.zip;0
+Malawi;MWI;3;;p_code;trad_auth;;region;pop2008;http://data.humdata.org/dataset/ee4b94af-ac99-45d8-9b6d-d4d9dd68c7fc/resource/69aef719-86aa-4a3b-935a-cc35a6805202/download/mwi_popa_adm3_tradauth_geonode_nso2008_ocha.zip;1
+Malawi;MWI;1;;p_code;region;;;pop08;http://data.humdata.org/dataset/58757fd0-c40d-43bd-8e2b-d93356bf275c/resource/bbc39fb7-2105-4e25-8707-c262b45f44e6/download/mwi_popa_adm1_regions_nso2008_ocha.zip;1
+Malawi;MWI;2;;p_code;district;;region;pop08;http://data.humdata.org/dataset/7c60c897-39a2-411a-ab10-5193263d951d/resource/abb4842a-4da2-4426-b797-c482363cbb02/download/mwi_popa_adm2_district_geonode_nso2008_ocha.zip;1
+Mali;MLI;1;;pcode_ad_1;admin1_nam;pcode_ad_0;admin0_nam;pop2017_to;http://data.humdata.org/dataset/3feaf6d7-8b21-4db1-a097-fa8a2b680a89/resource/1f4755a2-b3d7-4634-9273-430048d40684/download/mli_admbnda_adm1_pop_2017.zip;1
+Mali;MLI;2;;pcode_ad_2;admin2_nam;pcode_ad_1;admin1_nam;pop2017_t;http://data.humdata.org/dataset/3feaf6d7-8b21-4db1-a097-fa8a2b680a89/resource/bc251c53-9c78-48b2-ab8f-c92d9269faf2/download/mli_admbnda_adm2_pop_2017.zip;1
+Mali;MLI;3;;pcode_ad_3;admin3_nam;pcode_ad_2;admin2_nam;pop2017_to;http://data.humdata.org/dataset/3feaf6d7-8b21-4db1-a097-fa8a2b680a89/resource/303f57d8-965f-4c70-a081-3e5e0fcba2bf/download/mli_admbnda_adm3_pop_2017.zip;1
+Mauritania;MRT;1;;;;;;;http://data.humdata.org/dataset/8d49f50d-92a8-46d9-9462-f821a8058f6d/resource/1e7d4873-1151-4d83-a38d-11f047d8b994/download/MRT_admbnd1_1m_Ocha.zip;0
+Mauritania;MRT;2;;;;;;;http://data.humdata.org/dataset/8d49f50d-92a8-46d9-9462-f821a8058f6d/resource/f3586acb-27fc-4c49-a635-5ad33ad8f3f8/download/MRT_admbnd2_1m_Ocha.zip;0
+Mauritania;MRT;3;;;;;;;http://data.humdata.org/dataset/8d49f50d-92a8-46d9-9462-f821a8058f6d/resource/b0b948ad-2310-45b2-beda-2cc6ea3e5146/download/MRT_admbnd3_1m_WFP.zip;0
+Mexico;MEX;1;;;;;;;http://data.humdata.org/dataset/a032c739-d00a-4a91-847f-5f4870b18a27/resource/c8026b04-3311-40d7-a608-fe79b2948100/download/MEX_adm1.zip;0
+Mexico;MEX;2;;;;;;;http://data.humdata.org/dataset/a032c739-d00a-4a91-847f-5f4870b18a27/resource/5c04e8f6-1e37-47cd-a114-cce380ff894e/download/MEX_adm2.zip;0
+Mongolia;MNG;2;;;;;;;http://data.humdata.org/dataset/9844060e-a119-4999-b99c-aae33d357b91/resource/185f5d42-b6f6-4671-9794-ab10ab68d073/download/mng_admin2_Sum_nso_polygon.zip;0
+Mongolia;MNG;1;;;;;;;http://data.humdata.org/dataset/e5c5e3d5-ee9d-4fd1-b7ad-cf64e44b3127/resource/b4662d73-6dde-4948-8c50-69e90216784a/download/Mongolia_admin_level_1_polygon.zip;0
+Morocco;MAR;1;;;;;;;http://data.humdata.org/dataset/7fb8f891-35f2-4bd5-8c75-5e7797ff1731/resource/7091e335-fd67-4e00-84c1-7e766741e322/download/MAR_adm1.zip;0
+Morocco;MAR;2;;;;;;;http://data.humdata.org/dataset/7fb8f891-35f2-4bd5-8c75-5e7797ff1731/resource/53b794ed-e432-481a-aea5-2f05938cf999/download/MAR_adm2.zip;0
+Morocco;MAR;3;;;;;;;http://data.humdata.org/dataset/7fb8f891-35f2-4bd5-8c75-5e7797ff1731/resource/688de9be-9d88-40d8-8a3c-af69558efed8/download/MAR_adm3.zip;0
+Mozambique;MOZ;2;;p_code;district;prov_code;province;pop_2007;http://data.humdata.org/dataset/c781a3f4-672e-4716-9364-88c26ae693f0/resource/46fd1371-377d-4e68-acb9-5c01232d79ae/download/moz_polbnda_adm2_districts_wfp_ine_pop2012_15_ocha.zip;1
+Mozambique;MOZ;1;;hrpcode;hrname;hrparent;;;http://data.humdata.org/dataset/bd967796-fa5b-4633-929e-25ecec459f78/resource/8953ba0d-2ff4-4755-9089-beafc37776dd/download/moz_polbnda_adm1_provinces_WFP_OCHA_ROSA.zip;1
+Myanmar;MMR;1;;;;;;;http://data.humdata.org/dataset/b3d665ad-a017-4deb-94b1-f6e0bfcbf3d5/resource/dd16d141-a2b1-47c5-a2b3-591caa5cf45e/download/mmr_adm1_states_regions2_mimu.zip;0
+Myanmar;MMR;2;;;;;;;http://data.humdata.org/dataset/b3d665ad-a017-4deb-94b1-f6e0bfcbf3d5/resource/abe112e9-5f91-4093-9b58-d6946e74fdf6/download/mmr_adm2_districts_mimu.zip;0
+Myanmar;MMR;3;;;;;;;http://data.humdata.org/dataset/b3d665ad-a017-4deb-94b1-f6e0bfcbf3d5/resource/84bbd7ea-e693-463c-843f-1dbb0509cce9/download/mmr_adm3_townships2_mimu.zip;0
+Namibia;NAM;1;;hrpcode;hrname;hrparent;;;http://data.humdata.org/dataset/50fda5c8-bc93-48e7-b542-f123b2038350/resource/cd8ccf64-a2d4-4f20-8a1b-35e7168b9e8c/download/nam_polbna_adm1_regions_NamAtlas_OCHA_ROSA.zip;0
+Nepal;NPL;3;;hrpcode;hrname;hrparent;;;http://data.humdata.org/dataset/b2c19438-3e3c-4553-8ddc-4a42a50acf00/resource/675aa4b1-0b28-4939-af64-d44079b850e3/download/npl-polbnda-adm3-dis-25k-50k-sdn-wgs84-shp.zip;0
+Nepal;NPL;2;;hrpcode;hrname;hrparent;;;http://data.humdata.org/dataset/4dda502e-d891-479c-b044-24b90f41d9c1/resource/8db0ea32-f0c5-4958-9ef0-68d4260ba308/download/npl-polbnda-adm2-zon-25k-50k-sdn-wgs84-shp.zip;0
+Nepal;NPL;1;;hrpcode;hrname;hrparent;;;http://data.humdata.org/dataset/029d6ddd-df26-4f00-8d10-b95c66a5c247/resource/aad689cc-4f3b-45f1-b807-f54cc53870f2/download/npl-polbnda-adm1-reg-25k-50k-sdn-wgs84-shp.zip;0
+Niger;NER;1;;admin1pcod;admin1name;admin0pcod;admin0name;;http://data.humdata.org/dataset/c0e0998c-b45a-4aea-ac06-c1de1d94e596/resource/94e06212-3f8f-4c74-a433-1b132d059ea8/download/NER_admbnda_adm1_ignn_ocha_itos.zip;0
+Niger;NER;2;;admin2pcod;admin1pcod;admin1name;;;http://data.humdata.org/dataset/c0e0998c-b45a-4aea-ac06-c1de1d94e596/resource/4b2bfec2-2f26-4354-bfe0-801f161c23fb/download/NER_admbnda_adm2_ignn_ocha_itos.zip;0
+Nigeria;NGA;1;;admin1pcod;admin1name;admin0pcod;admin0name;;http://data.humdata.org/dataset/81ac1d38-f603-4a98-804d-325c658599a3/resource/6815dd94-c6f1-47bf-8f84-7941d3a4a8cd/download/nga_admbnda_adm1_osgof.zip;0
+Nigeria;NGA;2;;admin2pcod;admin2name;admin1pcod;admin1name;;http://data.humdata.org/dataset/81ac1d38-f603-4a98-804d-325c658599a3/resource/aa69f07b-ed8e-456a-9233-b20674730be6/download/nga_admbnda_adm2_osgof.zip;0
+Nigeria;NGA;3;;admin3pcod;admin3name;admin2pcod;admin2name;;http://data.humdata.org/dataset/81ac1d38-f603-4a98-804d-325c658599a3/resource/7a549ab8-2c2b-4d76-bc56-9d63eb532b16/download/nga_admbnda_adm3_osgof_eha_itos.zip;0
+Oman;OMN;1;;;;;;;http://data.humdata.org/dataset/da87f54e-64bd-4cf4-bd31-3fc520f94609/resource/36dee86a-5d84-4a37-8f29-e7f15e9e55eb/download/OMN_adm1.zip;0
+Oman;OMN;2;;;;;;;http://data.humdata.org/dataset/da87f54e-64bd-4cf4-bd31-3fc520f94609/resource/fae5d130-099b-4bbd-b0d1-99e091d4166d/download/OMN_adm2.zip;0
+Pakistan;PAK;1;;hrpcode;hrname;hrparent;;;http://data.humdata.org/dataset/e8b7a131-7b21-473c-ac93-366318a5c1ab/resource/7d84a103-d25f-4cf7-9898-0516f6077bbf/download/Pak_adm1_pco_20110324.zip;0
+Pakistan;PAK;3;;hrpcode;hrname;hrparent;;;http://data.humdata.org/dataset/bbd5c699-ea35-4635-b80a-d58636320a47/resource/eaee9a41-521d-4083-a580-92dbc2220b82/download/pak_adm3_pco_20150528.zip;0
+Pakistan;PAK;2;;hrpcode;hrname;hrparent;;;http://data.humdata.org/dataset/44c2b2a4-b1cb-49d3-8299-0e544f1cab52/resource/19a7b974-cd62-4514-ae07-405369fccdd6/download/pak_adm2_pco_20150528.zip;0
+Papua New Guinea;PNG;2;;;;;;;http://data.humdata.org/dataset/2ae8b5d6-a23a-448a-b68a-cba505a75371/resource/2d447912-198f-41cc-a3ca-a2daeb31a5f9/download/PNG_polbnd_adm2_2015_nso.zip;1
+Papua New Guinea;PNG;1;;;;;;;http://data.humdata.org/dataset/42226b95-546b-4518-8f32-6548b4f11f49/resource/b0fd08ce-5f3e-4579-b215-374c68e2152f/download/PNG_polbnd_adm1_2015_nso.zip;1
+Papua New Guinea;PNG;3;;geocode;name;;;totpop;http://data.humdata.org/dataset/a2f3ba35-459b-400e-a394-3f5639672d5f/resource/ad705979-2d76-4b73-8865-596bd3846098/download/PNG_polbnd_adm3_2015_nso.zip;1
+Philippines;PHL;1;;;;;;;http://data.humdata.org/dataset/caf116df-f984-4deb-85ca-41b349d3f313/resource/315b64be-e4c9-401d-80c2-81a0e4cfb917/download/PHL_adm1_PSA_pn_2016June.zip;0
+Philippines;PHL;2;;;;;;;http://data.humdata.org/dataset/caf116df-f984-4deb-85ca-41b349d3f313/resource/b2890403-1ad8-4f14-8762-9ef34f251609/download/PHL_adm2_PSA_pn_2016June.zip;0
+Philippines;PHL;3;;;;;;;http://data.humdata.org/dataset/caf116df-f984-4deb-85ca-41b349d3f313/resource/ebc4092d-d56d-42d1-95ee-4fc6fad4e5e4/download/PHL_adm3_PSA_pn_2016June.zip;0
+Qatar;QAT;1;;;;;;;http://data.humdata.org/dataset/6a84f3b8-41cd-4769-a61f-6dbd5f61bd05/resource/c11a9ba7-3e69-4f3f-bb02-70c094698039/download/QAT_adm1.zip;0
+Rwanda;RWA;3;;;;;;;http://data.humdata.org/dataset/82a51550-f7c3-4f25-9ccc-7af1aeb89425/resource/d2708930-d91c-408e-ac3b-3d273a75dc4d/download/rwaadmin32006nisr.zip;0
+Rwanda;RWA;2;;;;;;;http://data.humdata.org/dataset/de16a690-8b56-4ad4-ad30-2d491fceac0a/resource/f2129555-fbcf-40ba-a275-5271d6c40a6a/download/rwaadmin22006nisr.zip;0
+Sao Tome And Principe;STP;1;;;;;;;http://data.humdata.org/dataset/9746c0f7-9ed3-4a3f-890e-88bc19166770/resource/93b95d0e-7c77-4f48-afa4-21de1adda741/download/STP_adm1_gadm.zip;0
+Sao Tome And Principe;STP;2;;;;;;;http://data.humdata.org/dataset/9746c0f7-9ed3-4a3f-890e-88bc19166770/resource/48d873bf-3759-4399-8d16-b4de0adf608f/download/STPadm2gadm.zip;0
+Saudi Arabia;SAU;1;;;;;;;http://data.humdata.org/dataset/41ce9023-1d21-4549-a485-94316200aba0/resource/a0188b1b-2f40-4f27-8a43-25913a7378ca/download/SAU_adm1.zip;0
+Senegal;SEN;1;;admin1pcod;admin1name;admin0pcod;admin0name;;http://data.humdata.org/dataset/bd9bc484-155d-41a3-87cf-064310a94492/resource/45f60789-a249-48f0-85bd-97bcc250c937/download/sen_admbnda_adm1_1m_dtgc_ocha.zip;0
+Senegal;SEN;2;;admin2pcod;admin2name;admin1pdco;admin1name;;http://data.humdata.org/dataset/bd9bc484-155d-41a3-87cf-064310a94492/resource/9cc64543-4ab6-48f3-bf0a-111e745b87ef/download/sen_admbnda_adm2_1m_dtgc_ocha.zip;0
+Senegal;SEN;3;;admin3code;admin3name;admin2pcod;admin2name;;http://data.humdata.org/dataset/bd9bc484-155d-41a3-87cf-064310a94492/resource/f9fda9b6-5123-463b-b019-580c1bd41bcf/download/sen_admbnda_adm3_1m_dtgc_ocha.zip;0
+Sierra Leone;SLE;1;;;;;;;http://data.humdata.org/dataset/a4816317-a913-4619-b1e9-d89e21c056b4/resource/b6225ff4-80e2-428f-be5e-db5d2f43a3d6/download/Admin1ProvinceSLEsleprovince.zip;0
+Sierra Leone;SLE;2;;;;;;;http://data.humdata.org/dataset/a4816317-a913-4619-b1e9-d89e21c056b4/resource/b3963917-8550-478d-9363-736492bf209a/download/sle_admbnda_adm2_1m_gov_ocha.zip;0
+Sierra Leone;SLE;3;;;;;;;http://data.humdata.org/dataset/a4816317-a913-4619-b1e9-d89e21c056b4/resource/e2aa661d-af2f-42d8-bdea-c7e16a00bdb2/download/sle_admbnda_adm3_1m_gov_ocha.zip;0
+Somalia;SOM;1;;admin1pcod;admin1name;admin0pcod;admin0name;;http://data.humdata.org/dataset/ec140a63-5330-4376-a3df-c7ebf73cfc3c/resource/0353bb25-919e-40d7-be7d-831376bc4f76/download/SOM_Admbnda_Adm1_UNDP.zip;0
+Somalia;SOM;2;;admin2pcod;admin2name;admin1pcod;admin1name;;http://data.humdata.org/dataset/ec140a63-5330-4376-a3df-c7ebf73cfc3c/resource/a58ba039-7423-4241-b2cb-0534c46f295d/download/Som_Admbnda_Adm2_UNDP.zip;0
+South Africa;ZAF;1;;;;;;;http://data.humdata.org/dataset/061d4492-56e8-458c-a3fb-e7950991adf0/resource/6f571def-1278-4cee-9461-55616a1ef163/download/zaf_polbnda_adm1_provinces_SAMDB.zip;0
+Sri Lanka;LKA;2;;district_c;district_n;province_c;;tot_pop;http://data.humdata.org/dataset/5ed05f6e-556f-4545-918a-a5b679386ee9/resource/bcc9d500-3895-4262-8e6f-9eb3b652d931/download/lka_pop_censusproj2022adm2_wfpocha.zip;1
+Sri Lanka;LKA;1;;;;;;;http://data.humdata.org/dataset/14dd7ed1-84ca-46ea-9677-dc9f49bf6b58/resource/4f680477-47af-414c-84d2-db29b17f9ba1/download/lka_pop_censusproj2022adm1_wfpocha.zip;1
+Sri Lanka;LKA;3;;dsd_c;dsd_n;district_1;district_n;tot_pop;http://data.humdata.org/dataset/fa50efee-3fd9-412c-99e1-3a8b8759299e/resource/d102324b-be2b-4c17-a153-732a0db59f5d/download/lka_pop_censusproj2022adm3_wfpocha.zip;1
+State of Palestine;PSE;1;;admin1pcod;admin1name;admin0pcod;admin0name;;http://data.humdata.org/dataset/2caf8373-816f-458c-9913-71bddb9cab7c/resource/6bca27f1-73de-41bb-bfeb-27efb8fe9c97/download/pse_admbnda_adm1_pamop.zip;0
+State of Palestine;PSE;2;;admin2pcod;admin2name;admin1pcod;admin1name;;http://data.humdata.org/dataset/2caf8373-816f-458c-9913-71bddb9cab7c/resource/5635fa0e-1a39-4619-bcb1-c0031c993070/download/pse_admbnda_adm2_ocha.zip;0
+Sudan;SDN;1;;admin1pcod;admin1name;admin0pcod;admin0name;;http://data.humdata.org/dataset/7b3c6a84-b654-4298-a777-a6f247162ae2/resource/08358eaf-a962-4784-86a9-6408441cec87/download/sd_admbnda_adm1_17012016_zipped-shapefile-334kb.zip;0
+Sudan;SDN;2;;admin2pcod;admin2name;admin1pcod;admin1name;;http://data.humdata.org/dataset/7b3c6a84-b654-4298-a777-a6f247162ae2/resource/fc0b09fe-85c9-4e31-8a80-183cadf6567e/download/sd_admbnda_adm2_17012016_zipped-shapefile-572kb.zip;0
+Thailand;THA;1;;;;;;;http://data.humdata.org/dataset/d24bdc45-eb4c-4e3d-8b16-44db02667c27/resource/01f75483-3138-48cc-b25d-112d812905ba/download/THA_Adm_level_1.zip;0
+Thailand;THA;2;;;;;;;http://data.humdata.org/dataset/d24bdc45-eb4c-4e3d-8b16-44db02667c27/resource/d3d262d9-70b5-45b3-bf90-4bf4af26a173/download/THA_Adm_level_2.zip;0
+Thailand;THA;3;;;;;;;http://data.humdata.org/dataset/d24bdc45-eb4c-4e3d-8b16-44db02667c27/resource/baecf366-00d9-425e-9ff5-e583d187374c/download/THA_Adm_level_3.zip;0
+Tunisia;TUN;1;;;;;;;http://data.humdata.org/dataset/e47eda48-8f83-4858-b739-dbffb8a50c47/resource/c52ddbb3-a22d-4988-90f1-a8e71099a00e/download/TUN_adm1.zip;0
+Tunisia;TUN;2;;;;;;;http://data.humdata.org/dataset/e47eda48-8f83-4858-b739-dbffb8a50c47/resource/33ebbdc5-f111-49ec-aa7d-2449874e511d/download/TUN_adm2.zip;0
+Uganda;UGA;3;;;;;;;http://data.humdata.org/dataset/bb32a92a-f4c0-43d1-8919-57e674fe6c53/resource/5d2e6965-920a-4c07-bacf-a0c900b9d220/download/uganda_county2006.zip;0
+Uganda;UGA;2;;;;;;;http://data.humdata.org/dataset/52707222-6315-4249-aaec-991f9c755cb7/resource/f7879af8-d8b8-4bdb-bf1c-291183a6457b/download/uganda_district2010.zip;0
+Uganda;UGA;1;;;;;;;http://data.humdata.org/dataset/5ad282a3-d981-4987-8d39-78b88423954f/resource/fc202677-4f65-4f51-a51e-8328bd6a1b2e/download/uganda_subregional2006.zip;0
+United Arab Emirates;ARE;1;;;;;;;http://data.humdata.org/dataset/23d41c1f-41ef-4957-a47e-b8c08c984d83/resource/54f2c9ed-68d3-4cbb-a830-a15282b1bca9/download/Admin1.rar;0
+Viet Nam;VNM;1;;adm1_code;adm1_name;;;;http://data.humdata.org/dataset/48fc09c8-a831-4e7b-a847-74e37f1d66a5/resource/2502f188-9657-405e-a807-bf7a8531182d/download/vnm_polbnda_adm1_2014_pdc.zip;1
+Viet Nam;VNM;3;;adm3_code;adm3_name;adm2_code;adm2_name;pop;http://data.humdata.org/dataset/f72bb37c-2303-4c72-ab85-fedd80368b4c/resource/04afef02-cff7-4eea-8033-eed86e8ab11c/download/vnm_polbnda_adm3_2014_pdc.zip;1
+Viet Nam;VNM;2;;adm2_code;adm2_name;adm1_code;adm1_name;;http://data.humdata.org/dataset/d0c1f725-ecb2-47f7-88e4-42b255564edb/resource/16d9ea15-5246-4dad-b46d-9bc858f8dcaf/download/vnm_polbnda_adm2_2014_pdc.zip;1
+Western Sahara;ESH;1;;;;;;;http://data.humdata.org/dataset/ab6e70bd-3cab-4a68-9a02-04ecd3df6b46/resource/9d86e1f6-2e4f-4440-9d4c-3fcacbdf0c59/download/ESH_admn1.zip;0
+Yemen;YEM;1;;;;;;;http://data.humdata.org/dataset/6b2656e2-b915-4671-bfed-468d5edcd80a/resource/69146e1e-62c7-4e7f-8f6c-2dacffe02283/download/Admin-1.zip;0
+Yemen;YEM;2;;;;;;;http://data.humdata.org/dataset/6b2656e2-b915-4671-bfed-468d5edcd80a/resource/f60035dc-624a-49cf-95de-9d489c07d3b9/download/Admin-2.zip;0
+Zimbabwe;ZWE;3;;wardpcode;wardnumber;districtpc;district;;http://data.humdata.org/dataset/125ad988-4027-4eac-afe2-65937cd95774/resource/028d3211-dde2-474a-9e3b-26213a8fc9e2/download/zwe_polbnda_adm3_250k_cso_0.zip;0
+Zimbabwe;ZWE;2;;districtpc;dist_name_;provincepc;provnamefu;;http://data.humdata.org/dataset/bdb183f1-c0e5-4cfd-afe2-5b5cb21e8826/resource/29cb3d94-917b-4aa0-994c-c895603aade4/download/zwe_polbnda_adm2_250k_cso.zip;0
+Zimbabwe;ZWE;1;;prov_code;province;;;;http://data.humdata.org/dataset/07040991-cbd9-47ef-9d2e-8e6262d6c04c/resource/59c2a3bc-3d87-467c-9ea8-0876a1fdd023/download/zwe_polbnda_adm1_250k_cso.zip;0
