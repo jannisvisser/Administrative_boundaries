@@ -6,7 +6,7 @@ Set of scripts intended to fully automate the process of finding all administrat
 * Make sure mapshaper is installed using NPM: 'npm install -g mapshaper'
 * Possibly install OSGeo4W (see pg_upload.bat script)
 
-#Running scripts
+# Running scripts
 Relevant scripts (in order) are:
 * test/Scripts/hdx_test.py: this script searches HDX for admin-data and stores relevant info in a metadatabase tables
 * get_data.py: this script uses the metadata table to actually download all the data (in folder zipfiles), and unzip them (in folder shapefiles)
